@@ -20,7 +20,8 @@
 #
 ## 프로젝트 설명
 ***
-    JAVA로 구성된 프로그램이 기능에 따라 DB의 데이터에 접근해 Create, Read, Update, Delete 하는 것을 구현해 보았습니다.
+    JAVA로 구성된 프로그램이 기능에 따라 DB의 데이터에 접근해 
+    Create, Read, Update, Delete 하는 것을 구현해 보았습니다.
 #
 ## 기술스택
 ***
@@ -32,6 +33,5 @@
 ***
     주소
     
-    https://mhhjo.github.io/portfolio/
-
+    https://www.youtube.com/watch?v=NeD8qtqoGXQ
 
